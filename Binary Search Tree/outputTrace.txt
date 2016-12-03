@@ -1,0 +1,69 @@
+inserted 20.
+inserted 30.
+inserted 12.
+inserted 5.
+inserted 4.
+inserted 1.
+inserted 2.
+inserted 3.
+inserted 50.
+inserted 70.
+inserted 60.
+inserted 65.
+inserted 62.
+inserted 61.
+inserted 100.
+inserted 80.
+inserted 91.
+inserted 92.
+inserted 93.
+inserted 140.
+inserted 120.
+inserted 130.
+inserted 22.
+inserted 23.
+inserted 24.
+inserted 33.
+inserted 34.
+inserted 35.
+inserted 19.
+inserted 17.
+inserted 16.
+inserted 13.
+inserted 14.
+inserted 15.
+20 found.
+21 not found.
+130 found.
+20 predecessor is 19.
+30 predecessor is 24.
+80 predecessor is 70.
+no predecessor for 1.
+min is 1.
+max is 140.
+inorder traversal:
+1 2 3 4 5 12 13 14 15 16 17 19 20 22 23 24 30 33 34 35 50 60 61 62 65 70 80 91 92 93 100 120 130 140
+deleted 20.
+delete 21 - not found.
+deleted 22.
+deleted 30.
+delete 31 - not found.
+delete 32 - not found.
+deleted 12.
+deleted 15.
+deleted 1.
+deleted 140.
+deleted 130.
+20 not found.
+65 found.
+130 not found.
+min is 2.
+max is 120.
+24 successor is 33.
+25 not in tree.
+no successor for 120.
+100 successor is 120.
+postorder traversal:
+3 2 4 5 14 16 17 19 13 24 35 34 61 62 65 60 93 92 91 80 120 100 70 50 33 23
+preorder traversal:
+23 13 5 4 2 3 19 17 16 14 33 24 50 34 35 70 60 65 62 61 100 80 91 92 93 120

@@ -1,0 +1,75 @@
+# Sample data file for CS21 BST Program
+# pound sign indicates comment until end-of-line
+#################################################
+# insert some values
+insert 20
+insert 30
+insert 12
+insert 5
+insert 4
+insert 1
+insert 2
+insert 3
+insert 50
+insert 70
+insert 60
+insert 65
+insert 62
+insert 61
+insert 100
+insert 80
+insert 91
+insert 92
+insert 93
+insert 140
+insert 120
+insert 130
+insert 22
+insert 23
+insert 24
+insert 33
+insert 34
+insert 35
+insert 19
+insert 17
+insert 16
+insert 13
+insert 14
+insert 15
+# inorder
+# test some stuff
+search 20
+search 21
+search 130
+predecessor 20
+predecessor 30
+predecessor 80
+predecessor 1
+min
+max
+inorder
+#delete some values
+delete 20
+delete 21
+delete 22
+delete 30
+delete 31
+delete 32
+delete 12
+delete 15
+delete 1
+delete 140
+delete 130
+#test some stuff
+search 20
+search 65
+search 130
+min
+max
+successor 24
+successor 25
+successor 120
+successor 100
+postorder
+preorder
+# done with input
