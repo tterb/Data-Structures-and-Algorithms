@@ -1,6 +1,5 @@
 // Brett Stevenson
-// Email: therealbrettstevenson@gmail.com
-// Account: bstevens
+// Email: BStevensonDev@gmail.com
 // Date Modified: 04/20/2016
 // MazeGen.java (v1.4)
 /* This class is responsible for initializing, storing, and modifying the

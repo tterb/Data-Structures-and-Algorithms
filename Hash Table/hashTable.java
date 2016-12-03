@@ -1,19 +1,18 @@
 // Brett Stevenson
-// Email: therealbrettstevenson@gmail.com
-// Account: bstevens
-// Assignment #5: Hash Table
+// Email: BStevensonDev@gmail.com
+// Hash Table
 // Date Modified: 03/23/2016
-// p5.java (v1.4)
+// HashTable.java (v1.4)
 /* This class contains a Hash Table implementation which stores Records. This implementation
    utilizes the multiplication method for hashing, and resolves collisions within the table
    using the chaining method. */
 // Status: working/tested
-//
+
 
 import java.util.ArrayList;
 
 
-public class hashTable {
+public class HashTable {
 
     private int size = 100;  // default hash table size
     private ArrayList<ArrayList<Record>> table = new ArrayList<>();

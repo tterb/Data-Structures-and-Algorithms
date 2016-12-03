@@ -1,7 +1,8 @@
-// CS-21: Assignment #1
+// Brett Stevenson
+// Email: BStevensonDev@gmail.com
 // LinkedList.java
-// Implements a Doubly Linked List data structure and inner LinkNode class which handles doubles.
-//
+/* Implements a Doubly Linked List data structure and inner LinkNode class which handles doubles. */
+// Status: working/tested
 
 public class LinkedList {
 

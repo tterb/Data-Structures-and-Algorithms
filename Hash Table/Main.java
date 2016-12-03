@@ -1,14 +1,12 @@
 // Brett Stevenson
-// Email: therealbrettstevenson@gmail.com
-// Account: bstevens
-// Assignment #5: Hash Table
+// Email: BStevensonDev@gmail.com
+// Hash Table
 // Date Modified: 03/23/2016
-// p5.java (v1.4)
+// Main.java (v1.4)
 /* This class contains the main() method of the Hash Table implementation that is primarily
    responsible for handling the various commands by which the user is able to manipulate the
    Hash Table. */
 // Status: working/tested
-//
 
 
 import java.util.Scanner;
@@ -19,7 +17,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 
-public class p5 {
+public class Main {
 
     public static void main(String[] args) {
         hashTable table = new hashTable(178000);

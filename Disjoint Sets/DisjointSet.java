@@ -1,6 +1,5 @@
 // Brett Stevenson
-// Email: therealbrettstevenson@gmail.com
-// Account: bstevens
+// Email: BStevensonDev@gmail.com
 // Date Modified: 04/20/2016
 // DisjointSet.java (v1.4)
 /* This class features an implementation of a Union-Find data structure, where

@@ -1,14 +1,13 @@
 // Brett Stevenson
-// Email: therealbrettstevenson@gmail.com
-// Account: bstevens
+// Email: BStevensonDev@gmail.com
 // Date Modified: 04/20/2016
-// p6.java (v1.4)
+// Main.java (v1.4)
 /* This class contains the main function of the program, which is responsible
  * for both the I/O of the program, as well as facilitating the cooperation
  * between the MazeGen and DisjointSet classes.                               */
 // Status: working/tested
 
-public class p6 {
+public class Main {
 
     public static void main(String[] args) {
 //        if (args.length < 1 || Integer.parseInt(args[0]) < 3) {

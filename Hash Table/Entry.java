@@ -1,13 +1,11 @@
 // Brett Stevenson
-// Email: therealbrettstevenson@gmail.com
-// Account: bstevens
-// Assignment #5: Hash Table
+// Email: BStevensonDev@gmail.com
+// Hash Table
 // Date Modified: 03/23/2016
 // Entry.java (v1.4)
 /* This class contains a custom data type to be stored in the Hash Table, which implements
    the Record interface. */
 // Status: working/tested
-//
 
 
 public class Entry implements Record {

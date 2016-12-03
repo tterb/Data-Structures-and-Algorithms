@@ -1,7 +1,8 @@
-// CS-21: Assignment #1
+// Brett Stevenson
+// Email: BStevensonDev@gmail.com
 // Stack.java
-// Inherits from LinkedList class
-//
+// Status: working/tested
+
 
 public class Stack extends LinkedList {
 

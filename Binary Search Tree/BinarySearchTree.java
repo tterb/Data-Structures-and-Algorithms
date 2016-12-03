@@ -1,15 +1,13 @@
 // Binary Search Tree
 // Brett Stevenson
-// Email: therealbrettstevenson@gmail.com
-// Account: bstevens
-// Date Modified: 04/26/2016
-// BinarySearchTree.java (v1.3)
+// Email: BStevensonDev@gmail.com
+// Date Modified: 04/27/2016
+// BinarySearchTree.java
 /* This class contains an implementation of a Binary Search Tree data structure
  * with a inner LinkNode class, which store a single integer as a key within each
  * LinkNode of the tree.   	                                                    */
-// Status: In progress
-//
-// TODO: Should BST be coded to only accept unique keys?
+// Status: working/tested
+
 
 public class BinarySearchTree {
 
@@ -201,7 +199,6 @@ public class BinarySearchTree {
         protected int key;
 
         public LinkNode() { parent = left = right = null; }   // LinkNode constructor
-
 
     }
 
