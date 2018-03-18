@@ -1,4 +1,4 @@
-# Sample data file for CS21 BST Program
+# Sample data file for BST program
 # pound sign indicates comment until end-of-line
 #################################################
 # insert some values
